@@ -1,5 +1,5 @@
 title = "Creative Commons Core Certificate"
-baseURL = "https://creativecommons.github.io/cc-cert-hugo-core"
+baseURL = "https://creativecommons.github.io/cc-cert-core-hugo"
 languageCode = "en-us"
 theme = "hugo-theme-learn"
 publishDir = "docs"
@@ -7,11 +7,11 @@ canonifyURLs = true
 MetaDataFormat = "yaml"
 
 [params]
-editURL = "https://github.com/creativecommons/cc-cert-hugo-core/edit/master/docs/content/"
+editURL = "https://github.com/creativecommons/cc-cert-core-hugo/edit/master/docs/content/"
 
 description = "Demo for CC Certification rendered via md"
 autoNav = true
-ghrepo = "https://github.com/creativecommons/cc-cert-hugo-core"
+ghrepo = "https://github.com/creativecommons/cc-cert-core-hugo"
 ghname = "CORE Release Alpha 1"
 ghvers = "v0.2.3"
 ghdate = "Mar 06, 2017"

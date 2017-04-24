@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Copyright on Creative Commons Core Certificate</title>
-    <link>https://creativecommons.github.io/cc-cert-hugo-core/copyright/index.xml</link>
+    <link>https://creativecommons.github.io/cc-cert-core-hugo/copyright/index.xml</link>
     <description>Recent content in Copyright on Creative Commons Core Certificate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Apr 2017 15:17:28 -0700</lastBuildDate>
-    <atom:link href="https://creativecommons.github.io/cc-cert-hugo-core/copyright/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://creativecommons.github.io/cc-cert-core-hugo/copyright/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Copyright Basics</title>
-      <link>https://creativecommons.github.io/cc-cert-hugo-core/copyright/basics/</link>
+      <link>https://creativecommons.github.io/cc-cert-core-hugo/copyright/basics/</link>
       <pubDate>Mon, 17 Apr 2017 15:45:18 -0700</pubDate>
       
-      <guid>https://creativecommons.github.io/cc-cert-hugo-core/copyright/basics/</guid>
+      <guid>https://creativecommons.github.io/cc-cert-core-hugo/copyright/basics/</guid>
       <description>
 
 &lt;p&gt;Is copyright a bit fuzzy to you? Get some clarity by understanding it&amp;rsquo;s history and purpose.&lt;/p&gt;
@@ -95,10 +95,10 @@
     
     <item>
       <title>Copyright vs Other Intellectual Property</title>
-      <link>https://creativecommons.github.io/cc-cert-hugo-core/copyright/other-ip/</link>
+      <link>https://creativecommons.github.io/cc-cert-core-hugo/copyright/other-ip/</link>
       <pubDate>Mon, 17 Apr 2017 15:46:34 -0700</pubDate>
       
-      <guid>https://creativecommons.github.io/cc-cert-hugo-core/copyright/other-ip/</guid>
+      <guid>https://creativecommons.github.io/cc-cert-core-hugo/copyright/other-ip/</guid>
       <description>
 
 &lt;p&gt;How does copyright differ from intellectual property (IP) rights of trademark, patents,and trade secrets?&lt;/p&gt;
@@ -170,10 +170,10 @@
     
     <item>
       <title>Scope of Public Domain</title>
-      <link>https://creativecommons.github.io/cc-cert-hugo-core/copyright/public-domain/</link>
+      <link>https://creativecommons.github.io/cc-cert-core-hugo/copyright/public-domain/</link>
       <pubDate>Mon, 17 Apr 2017 15:45:44 -0700</pubDate>
       
-      <guid>https://creativecommons.github.io/cc-cert-hugo-core/copyright/public-domain/</guid>
+      <guid>https://creativecommons.github.io/cc-cert-core-hugo/copyright/public-domain/</guid>
       <description>
 
 &lt;p&gt;Copyright protection is not forever, at some point the protection expires and works enter the public domain.&lt;/p&gt;
@@ -317,10 +317,10 @@
     
     <item>
       <title>Exceptions and Limitations of Copyright</title>
-      <link>https://creativecommons.github.io/cc-cert-hugo-core/copyright/exceptions-limitations/</link>
+      <link>https://creativecommons.github.io/cc-cert-core-hugo/copyright/exceptions-limitations/</link>
       <pubDate>Mon, 17 Apr 2017 15:46:44 -0700</pubDate>
       
-      <guid>https://creativecommons.github.io/cc-cert-hugo-core/copyright/exceptions-limitations/</guid>
+      <guid>https://creativecommons.github.io/cc-cert-core-hugo/copyright/exceptions-limitations/</guid>
       <description>
 
 &lt;p&gt;Known in some parts of the world as &amp;ldquo;fair use&amp;rdquo; or &amp;ldquo;fair dealing&amp;rdquo;, the limitations and exceptions built into copyright were designed to allow exceptions for certain kinds of uses such as criticism, parody, scholarship, and research.&lt;/p&gt;
@@ -423,10 +423,10 @@
     
     <item>
       <title>Global Aspects of Copyright</title>
-      <link>https://creativecommons.github.io/cc-cert-hugo-core/copyright/global/</link>
+      <link>https://creativecommons.github.io/cc-cert-core-hugo/copyright/global/</link>
       <pubDate>Mon, 17 Apr 2017 15:47:03 -0700</pubDate>
       
-      <guid>https://creativecommons.github.io/cc-cert-hugo-core/copyright/global/</guid>
+      <guid>https://creativecommons.github.io/cc-cert-core-hugo/copyright/global/</guid>
       <description>
 
 &lt;p&gt;Copyright laws are defined by countries yet we operate in a world where media is global in reach. Complexity ensues.&lt;/p&gt;
