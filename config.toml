@@ -1,0 +1,23 @@
+title = "Creative Commons Core Certificate"
+baseURL = "https://creativecommons.github.io/cc-cert-hugo-core"
+languageCode = "en-us"
+theme = "hugo-theme-learn"
+publishDir = "docs"
+canonifyURLs = true
+MetaDataFormat = "yaml"
+
+[params]
+editURL = "https://github.com/creativecommons/cc-cert-hugo-core/edit/master/docs/content/"
+
+description = "Demo for CC Certification rendered via md"
+autoNav = true
+ghrepo = "https://github.com/creativecommons/cc-cert-hugo-core"
+ghname = "CORE Release Alpha 1"
+ghvers = "v0.2.3"
+ghdate = "Mar 06, 2017"
+
+[author]
+author = "Alan Levine"
+homepage = "http://cogdog.github.io/"
+
+
