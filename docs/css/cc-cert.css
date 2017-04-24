@@ -92,3 +92,18 @@ a:hover {
     color: #999;
     text-align: center;
 }
+
+#body-inner h5 {
+    font-size: 1.3rem;
+    background-color: #333;
+    color: #ddd;
+    padding: 0.5rem 2rem;
+    margin-bottom: 0;
+}
+
+#body-inner h5 + p {
+    margin-top: 0;
+    line-height: 1.1;
+    background-color: #ededed;
+    padding: 1rem 2rem;
+}
