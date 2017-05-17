@@ -243,6 +243,104 @@
     </item>
     
     <item>
+      <title>How Licenses Work with Copyright</title>
+      <link>https://creativecommons.github.io/cc-cert-core-hugo/licenses/overview/</link>
+      <pubDate>Mon, 17 Apr 2017 15:17:44 -0700</pubDate>
+      
+      <guid>https://creativecommons.github.io/cc-cert-core-hugo/licenses/overview/</guid>
+      <description>
+
+&lt;p&gt;A 1-2 sentence catchy teaser, usually as opening to the big question that follows. All content is &lt;a href=&#34;https://cogdog.github.io/cc-ipsum/&#34;&gt;CC-IP-SUM rubbish&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-big-question&#34;&gt;The Big Question&lt;/h2&gt;
+
+&lt;p&gt;If you are looking for material offered under a Creative Commons license, CC Search is a good starting point. The database model refers to how a database is structured and organized, including database tables and table indexes. When a CC license is applied to a database, what is being licensed? You should also not apply Creative Commons licenses to works that are no longer protected by copyright or are otherwise in the public domain. Many rights holders who are members of a collecting society can waive the right to collect royalties for uses allowed under the license, but only to the extent their societies allow.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/copyright-iain.jpg&#34; alt=&#34;Copyright Iain&#34; title=&#34;Copyright Iain&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://www.flickr.com/photos/iain/4804390638/&#34;&gt;Copyright Iain&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/photos/iain/&#34;&gt;Iain Farrell&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-nd/2.0/&#34;&gt;CC BY-ND&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Additionally, when you are using a work that is an adaptation of one or more pre-existing works, you may need to give credit to the creator(s) of the pre-existing work(s), in addition to giving credit to the creator of the adaptation. If you are unsure, you should either contact the rights holder for clarification, or search for works that permit commercial uses. All licenses after version 1.0 also allow you to license your contributions under a later version of the same license, and some also allow ported licenses. Some examples of collecting societies include ASCAP and BMI (United States), BUMA/STEMRA (Netherlands), PRS (United Kingdom), and APRA (Australia). You may apply a 4.0 license to material subject to any of those rights, whether or not the material is also subject to copyright.&lt;/p&gt;
+
+&lt;p&gt;Often, the database provider is not the original author of the database contents. However, we do not recommend this. (See above for more detail about how past versions of CC licenses vary with respect to sui generis database rights.)They provide basic information, sometimes about fairly complex topics, and will often link to more detailed information. If you do, you should take additional care to mark the adaptation as involving multiple copyrights under different terms so that downstream users are aware of their obligations to comply with the licenses from all rights holders.&lt;/p&gt;
+
+&lt;p&gt;Be sure to confirm that the material you want to use is actually under a CC license, as search results may sometimes be misleading. All of the ported licenses are at version 3.0 or earlier, which means licensors using those licenses do not have the benefit of the improvements made in the 4.0 license suite. All CC licenses require users to attribute the creator of licensed material, unless the creator has waived that requirement, not supplied a name, or asked that her name be removed. Unless you have a specific reason to use a ported license, we suggest you consider using one of the international licenses. CC offers some additional information on how CC licenses may affect your moral rights.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;By design, CC licenses do not reduce, limit, or restrict any rights under exceptions and limitations to copyright, such as fair use or fair dealing.&lt;/li&gt;
+&lt;li&gt;Creative Commons has always relied on the generosity of both individuals and organizations to fund its ongoing operations.&lt;/li&gt;
+&lt;li&gt;Is Creative Commons involved in digital rights management (DRM)?&lt;/li&gt;
+&lt;li&gt;RDFa Primer: Bridging the Human and Data Webs, RDFa.info, RDFa Wiki.&lt;/li&gt;
+&lt;li&gt;What are collecting societies?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;personal-reflection-why-it-matters-to-you&#34;&gt;Personal Reflection / Why It Matters to You&lt;/h2&gt;
+
+&lt;p&gt;This compatibility mechanism is designed for situations in which content is integrated into software code in a way that makes it difficult or impossible to distinguish the two. There are special considerations required before using this compatibility mechanism. Licensors are not required to use the CC license chooser or provide any information about themselves or their material when applying a CC license to their material. Whether and to what extent these rights exist, and if so, how they are labeled, varies depending on the jurisdiction. On the internet, even the most basic activities involve making copies of copyrighted content.&lt;/p&gt;
+
+&lt;h5 id=&#34;discuss-it&#34;&gt;Discuss It&lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;A callout for a social prompt. It can be moved anywhere. Creators may also apply Creative Commons licenses to material they create that are adapted from public domain works, or to remixed material, databases, or collections that include work in the public domain.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;acquiring-essential-knowledge&#34;&gt;Acquiring Essential Knowledge&lt;/h2&gt;
+
+&lt;h3 id=&#34;our-tools-are-free-and-our-reach-is-wide&#34;&gt;Our tools are free, and our reach is wide.&lt;/h3&gt;
+
+&lt;p&gt;Creative Commons does not recommend using a CC license on a logo or trademark. Yes—but if you change the terms and conditions of any Creative Commons license, you must no longer call, label, or describe the license as a &amp;lsquo;Creative Commons&amp;rsquo; or &amp;lsquo;CC&amp;rsquo; license, nor can you use the Creative Commons logos, buttons, or other trademarks in connection with the modified license or your materials. Creators may also apply Creative Commons licenses to material they create that are adapted from public domain works, or to remixed material, databases, or collections that include work in the public domain. (In France it is called a &amp;lsquo;mandate&amp;rsquo; of rights but has similar practical effect.)&lt;/p&gt;
+
+&lt;p&gt;That said, Creative Commons recognizes the need for change in copyright law, and many members of the Creative Commons community are active participants in the copyright reform movement. Our tools are free, and our reach is wide. (Note that charging for access may not be permitted with NC-licensed material; however, it is not disallowed by the restriction on ETMs.)Because there is no single &amp;lsquo;Creative Commons license,&amp;rsquo; it is important to identify which of the six licenses you are applying to your material, which of the six licenses has been applied to material that you intend to use, and in both cases the specific version. Yes.&lt;/p&gt;
+
+&lt;h3 id=&#34;when-do-creative-commons-licenses-expire&#34;&gt;When do Creative Commons licenses expire?&lt;/h3&gt;
+
+&lt;p&gt;Creators in these jurisdictions who belong to collecting societies may not be able to license their material under CC licenses because the collecting societies own the necessary rights, not the creators.&lt;/p&gt;
+
+&lt;p&gt;Central to our licenses is the grant of a standard set of permissions in advance, without requiring users to ask for permission or seek clarification before using the work. There are currently no ports of 4.0, and it is planned that few, if any, will be created. You do not need to register with Creative Commons to apply a CC license to your material; it is legally valid as soon as you apply it to any material you have the legal right to license. How do I apply a Creative Commons license to my material?&lt;/p&gt;
+
+&lt;h5 id=&#34;for-your-personal-learning-toolkit&#34;&gt;For Your Personal Learning Toolkit&lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;Callout to add something. Make it good. It&amp;rsquo;s helpful to have some links to make these distinctions clear; see if there are more references from the Wikipedia pages with adding to your toolkit. Or you may want to find examples of Common-pool resources and Public goods that would help explain these to someone else.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;while-this-result-is-the-same-across-all-cc-version-3-0-licenses-the-reason-for-this-outcome-varies&#34;&gt;While this result is the same across all CC version 3.0 licenses, the reason for this outcome varies.&lt;/h3&gt;
+
+&lt;p&gt;If and only if your particular use is one that would require permission, you should note the following. CC offers resources on the best practices for marking your material and on how to mark material in different media (.pdf). CC licenses contain a &amp;lsquo;severability&amp;rsquo; clause. Among other things, if you use the logos on a website or on your work, you may not alter the logos in any respect—such as by changing the font, the proportions, or the colors.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/151666798&#34;&gt;https://vimeo.com/151666798&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://vimeo.com/151666798&#34;&gt;&amp;ldquo;Creative Commons: Remix&amp;rdquo;&lt;/a&gt; by &lt;a href=&#34;https://vimeo.com/creativecommonsvideos&#34;&gt;Creative Commons&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0&#34;&gt;CC BY-SA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Also &lt;a href=&#34;http://creativecommons.org.au&#34;&gt;Creative Commons Australia&lt;/a&gt; provides a more comprehensive list of of the &lt;a href=&#34;http://creativecommons.org.au/content/Benefits_of_CC_08.pdf&#34;&gt;Benefits of Sharing Using Creative Commons&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;application-of-learning&#34;&gt;Application of Learning&lt;/h2&gt;
+
+&lt;h3 id=&#34;learner-toolkit&#34;&gt;Learner Toolkit&lt;/h3&gt;
+
+&lt;p&gt;Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.&lt;/p&gt;
+
+&lt;h3 id=&#34;community-collaboration-appreciation-recognition-gratitude&#34;&gt;Community - Collaboration, Appreciation, Recognition, Gratitude&lt;/h3&gt;
+
+&lt;p&gt;Post a story about how you benefited from someone who chose to share their creative works under a Creative Commons license in the CC Certificate social forum. Alternatively, share a description of (and link to, if applicable) a community that engages in commons-based peer production that others might not be aware of.&lt;/p&gt;
+
+&lt;h5 id=&#34;discuss-it-1&#34;&gt;Discuss It&lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;Another callout for a social prompt. CC provides tools to make it easier for creators and owners to say which rights they reserve and permissions they grant.  Is Creative Commons against copyright? In those situations, compliance with the license conditions is not required unless the database contents are themselves restricted by copyright.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h3&gt;
+
+&lt;p&gt;Complete one of the &lt;a href=&#34;https://certificates.creativecommons.org/quests/cats/remixing/&#34;&gt;quests for this unit&lt;/a&gt; such as&lt;/p&gt;
+
+&lt;h2 id=&#34;closing-the-loop&#34;&gt;Closing the Loop&lt;/h2&gt;
+
+&lt;p&gt;Generally, a modification rises to the level of an adaptation under copyright law when the modified work is based on the prior work but manifests sufficient new creativity to be copyrightable, such as a translation of a novel from one language to another, or the creation of a screenplay based on a novel. If your use is not one that requires permission under the license, you may conduct text and data mining activity without regard to the above considerations. the minute you put pen to paper, take a photo, or hit the &amp;lsquo;save&amp;rsquo; button on your computer).&lt;/p&gt;
+
+&lt;p&gt;The first question to ask is whether doing so constitutes an adaptation. CC has a brief guide to interpretation of the NC license that goes into more detail about the meaning of the NC license and some key points to pay attention to.&lt;/p&gt;
+
+&lt;p&gt;Because there is no single &amp;lsquo;Creative Commons license,&amp;rsquo; it is important to identify which of the six licenses you are applying to your material, which of the six licenses has been applied to material that you intend to use, and in both cases the specific version. Embedding machine-readable metadata in the code of the license indicator or code of the licensed page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Commons Opportunity</title>
       <link>https://creativecommons.github.io/cc-cert-core-hugo/commons/opportunity/</link>
       <pubDate>Mon, 17 Apr 2017 15:52:33 -0700</pubDate>
@@ -531,6 +629,104 @@ License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/
     </item>
     
     <item>
+      <title>Overview of the Licenses</title>
+      <link>https://creativecommons.github.io/cc-cert-core-hugo/licenses/with-copyright/</link>
+      <pubDate>Mon, 17 Apr 2017 15:17:44 -0700</pubDate>
+      
+      <guid>https://creativecommons.github.io/cc-cert-core-hugo/licenses/with-copyright/</guid>
+      <description>
+
+&lt;p&gt;A 1-2 sentence catchy teaser, usually as opening to the big question that follows. All content is &lt;a href=&#34;https://cogdog.github.io/cc-ipsum/&#34;&gt;CC-IP-SUM rubbish&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-big-question&#34;&gt;The Big Question&lt;/h2&gt;
+
+&lt;p&gt;If you are looking for material offered under a Creative Commons license, CC Search is a good starting point. The database model refers to how a database is structured and organized, including database tables and table indexes. When a CC license is applied to a database, what is being licensed? You should also not apply Creative Commons licenses to works that are no longer protected by copyright or are otherwise in the public domain. Many rights holders who are members of a collecting society can waive the right to collect royalties for uses allowed under the license, but only to the extent their societies allow.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/copyright-iain.jpg&#34; alt=&#34;Copyright Iain&#34; title=&#34;Copyright Iain&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://www.flickr.com/photos/iain/4804390638/&#34;&gt;Copyright Iain&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/photos/iain/&#34;&gt;Iain Farrell&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-nd/2.0/&#34;&gt;CC BY-ND&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Additionally, when you are using a work that is an adaptation of one or more pre-existing works, you may need to give credit to the creator(s) of the pre-existing work(s), in addition to giving credit to the creator of the adaptation. If you are unsure, you should either contact the rights holder for clarification, or search for works that permit commercial uses. All licenses after version 1.0 also allow you to license your contributions under a later version of the same license, and some also allow ported licenses. Some examples of collecting societies include ASCAP and BMI (United States), BUMA/STEMRA (Netherlands), PRS (United Kingdom), and APRA (Australia). You may apply a 4.0 license to material subject to any of those rights, whether or not the material is also subject to copyright.&lt;/p&gt;
+
+&lt;p&gt;Often, the database provider is not the original author of the database contents. However, we do not recommend this. (See above for more detail about how past versions of CC licenses vary with respect to sui generis database rights.)They provide basic information, sometimes about fairly complex topics, and will often link to more detailed information. If you do, you should take additional care to mark the adaptation as involving multiple copyrights under different terms so that downstream users are aware of their obligations to comply with the licenses from all rights holders.&lt;/p&gt;
+
+&lt;p&gt;Be sure to confirm that the material you want to use is actually under a CC license, as search results may sometimes be misleading. All of the ported licenses are at version 3.0 or earlier, which means licensors using those licenses do not have the benefit of the improvements made in the 4.0 license suite. All CC licenses require users to attribute the creator of licensed material, unless the creator has waived that requirement, not supplied a name, or asked that her name be removed. Unless you have a specific reason to use a ported license, we suggest you consider using one of the international licenses. CC offers some additional information on how CC licenses may affect your moral rights.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;By design, CC licenses do not reduce, limit, or restrict any rights under exceptions and limitations to copyright, such as fair use or fair dealing.&lt;/li&gt;
+&lt;li&gt;Creative Commons has always relied on the generosity of both individuals and organizations to fund its ongoing operations.&lt;/li&gt;
+&lt;li&gt;Is Creative Commons involved in digital rights management (DRM)?&lt;/li&gt;
+&lt;li&gt;RDFa Primer: Bridging the Human and Data Webs, RDFa.info, RDFa Wiki.&lt;/li&gt;
+&lt;li&gt;What are collecting societies?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;personal-reflection-why-it-matters-to-you&#34;&gt;Personal Reflection / Why It Matters to You&lt;/h2&gt;
+
+&lt;p&gt;This compatibility mechanism is designed for situations in which content is integrated into software code in a way that makes it difficult or impossible to distinguish the two. There are special considerations required before using this compatibility mechanism. Licensors are not required to use the CC license chooser or provide any information about themselves or their material when applying a CC license to their material. Whether and to what extent these rights exist, and if so, how they are labeled, varies depending on the jurisdiction. On the internet, even the most basic activities involve making copies of copyrighted content.&lt;/p&gt;
+
+&lt;h5 id=&#34;discuss-it&#34;&gt;Discuss It&lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;A callout for a social prompt. It can be moved anywhere. Creators may also apply Creative Commons licenses to material they create that are adapted from public domain works, or to remixed material, databases, or collections that include work in the public domain.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;acquiring-essential-knowledge&#34;&gt;Acquiring Essential Knowledge&lt;/h2&gt;
+
+&lt;h3 id=&#34;our-tools-are-free-and-our-reach-is-wide&#34;&gt;Our tools are free, and our reach is wide.&lt;/h3&gt;
+
+&lt;p&gt;Creative Commons does not recommend using a CC license on a logo or trademark. Yes—but if you change the terms and conditions of any Creative Commons license, you must no longer call, label, or describe the license as a &amp;lsquo;Creative Commons&amp;rsquo; or &amp;lsquo;CC&amp;rsquo; license, nor can you use the Creative Commons logos, buttons, or other trademarks in connection with the modified license or your materials. Creators may also apply Creative Commons licenses to material they create that are adapted from public domain works, or to remixed material, databases, or collections that include work in the public domain. (In France it is called a &amp;lsquo;mandate&amp;rsquo; of rights but has similar practical effect.)&lt;/p&gt;
+
+&lt;p&gt;That said, Creative Commons recognizes the need for change in copyright law, and many members of the Creative Commons community are active participants in the copyright reform movement. Our tools are free, and our reach is wide. (Note that charging for access may not be permitted with NC-licensed material; however, it is not disallowed by the restriction on ETMs.)Because there is no single &amp;lsquo;Creative Commons license,&amp;rsquo; it is important to identify which of the six licenses you are applying to your material, which of the six licenses has been applied to material that you intend to use, and in both cases the specific version. Yes.&lt;/p&gt;
+
+&lt;h3 id=&#34;when-do-creative-commons-licenses-expire&#34;&gt;When do Creative Commons licenses expire?&lt;/h3&gt;
+
+&lt;p&gt;Creators in these jurisdictions who belong to collecting societies may not be able to license their material under CC licenses because the collecting societies own the necessary rights, not the creators.&lt;/p&gt;
+
+&lt;p&gt;Central to our licenses is the grant of a standard set of permissions in advance, without requiring users to ask for permission or seek clarification before using the work. There are currently no ports of 4.0, and it is planned that few, if any, will be created. You do not need to register with Creative Commons to apply a CC license to your material; it is legally valid as soon as you apply it to any material you have the legal right to license. How do I apply a Creative Commons license to my material?&lt;/p&gt;
+
+&lt;h5 id=&#34;for-your-personal-learning-toolkit&#34;&gt;For Your Personal Learning Toolkit&lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;Callout to add something. Make it good. It&amp;rsquo;s helpful to have some links to make these distinctions clear; see if there are more references from the Wikipedia pages with adding to your toolkit. Or you may want to find examples of Common-pool resources and Public goods that would help explain these to someone else.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;while-this-result-is-the-same-across-all-cc-version-3-0-licenses-the-reason-for-this-outcome-varies&#34;&gt;While this result is the same across all CC version 3.0 licenses, the reason for this outcome varies.&lt;/h3&gt;
+
+&lt;p&gt;If and only if your particular use is one that would require permission, you should note the following. CC offers resources on the best practices for marking your material and on how to mark material in different media (.pdf). CC licenses contain a &amp;lsquo;severability&amp;rsquo; clause. Among other things, if you use the logos on a website or on your work, you may not alter the logos in any respect—such as by changing the font, the proportions, or the colors.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/151666798&#34;&gt;https://vimeo.com/151666798&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://vimeo.com/151666798&#34;&gt;&amp;ldquo;Creative Commons: Remix&amp;rdquo;&lt;/a&gt; by &lt;a href=&#34;https://vimeo.com/creativecommonsvideos&#34;&gt;Creative Commons&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0&#34;&gt;CC BY-SA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Also &lt;a href=&#34;http://creativecommons.org.au&#34;&gt;Creative Commons Australia&lt;/a&gt; provides a more comprehensive list of of the &lt;a href=&#34;http://creativecommons.org.au/content/Benefits_of_CC_08.pdf&#34;&gt;Benefits of Sharing Using Creative Commons&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;application-of-learning&#34;&gt;Application of Learning&lt;/h2&gt;
+
+&lt;h3 id=&#34;learner-toolkit&#34;&gt;Learner Toolkit&lt;/h3&gt;
+
+&lt;p&gt;Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.&lt;/p&gt;
+
+&lt;h3 id=&#34;community-collaboration-appreciation-recognition-gratitude&#34;&gt;Community - Collaboration, Appreciation, Recognition, Gratitude&lt;/h3&gt;
+
+&lt;p&gt;Post a story about how you benefited from someone who chose to share their creative works under a Creative Commons license in the CC Certificate social forum. Alternatively, share a description of (and link to, if applicable) a community that engages in commons-based peer production that others might not be aware of.&lt;/p&gt;
+
+&lt;h5 id=&#34;discuss-it-1&#34;&gt;Discuss It&lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;Another callout for a social prompt. CC provides tools to make it easier for creators and owners to say which rights they reserve and permissions they grant.  Is Creative Commons against copyright? In those situations, compliance with the license conditions is not required unless the database contents are themselves restricted by copyright.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h3&gt;
+
+&lt;p&gt;Complete one of the &lt;a href=&#34;https://certificates.creativecommons.org/quests/cats/remixing/&#34;&gt;quests for this unit&lt;/a&gt; such as&lt;/p&gt;
+
+&lt;h2 id=&#34;closing-the-loop&#34;&gt;Closing the Loop&lt;/h2&gt;
+
+&lt;p&gt;Generally, a modification rises to the level of an adaptation under copyright law when the modified work is based on the prior work but manifests sufficient new creativity to be copyrightable, such as a translation of a novel from one language to another, or the creation of a screenplay based on a novel. If your use is not one that requires permission under the license, you may conduct text and data mining activity without regard to the above considerations. the minute you put pen to paper, take a photo, or hit the &amp;lsquo;save&amp;rsquo; button on your computer).&lt;/p&gt;
+
+&lt;p&gt;The first question to ask is whether doing so constitutes an adaptation. CC has a brief guide to interpretation of the NC license that goes into more detail about the meaning of the NC license and some key points to pay attention to.&lt;/p&gt;
+
+&lt;p&gt;Because there is no single &amp;lsquo;Creative Commons license,&amp;rsquo; it is important to identify which of the six licenses you are applying to your material, which of the six licenses has been applied to material that you intend to use, and in both cases the specific version. Embedding machine-readable metadata in the code of the license indicator or code of the licensed page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Physical vs Digital Commons</title>
       <link>https://creativecommons.github.io/cc-cert-core-hugo/commons/physical-digital/</link>
       <pubDate>Mon, 17 Apr 2017 15:52:47 -0700</pubDate>
@@ -789,6 +985,128 @@ License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/
     </item>
     
     <item>
+      <title>Examples of Licenses in Action</title>
+      <link>https://creativecommons.github.io/cc-cert-core-hugo/licenses/examples/</link>
+      <pubDate>Mon, 17 Apr 2017 15:17:44 -0700</pubDate>
+      
+      <guid>https://creativecommons.github.io/cc-cert-core-hugo/licenses/examples/</guid>
+      <description>
+
+&lt;p&gt;While we can discuss the concepts and background rationale for Creative Commons license, perhaps the best way to appreciate them is by examining real stories of how it has been successfully applied.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-big-question&#34;&gt;The Big Question&lt;/h2&gt;
+
+&lt;p&gt;The saying “&lt;a href=&#34;https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants&#34;&gt;standing on the shoulders of giants&lt;/a&gt;”  expresses a meaning of discovering truth or gaining new knowledge by building on work of previous generations. And today we discover and build new things much faster, be it science, innovations in education or cultural trends. Being able to get inspired, use and build upon works of others is crucial to our development more than ever.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/licenses/duty-calls.png&#34; alt=&#34;Duty Calls&#34; title=&#34;Duty Calls&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://xkcd.com/386/&#34;&gt;Duty Calls&lt;/a&gt; XKCD comic by &lt;a href=&#34;https://xkcd.com/about/&#34;&gt;Randall Munroe&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34;&gt;CC BY-NC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Try to think how today world would look like without open source powering the open web and mobile space (like what &lt;a href=&#34;https://www.mozilla.org/firefox&#34;&gt;Mozilla Firefox&lt;/a&gt;, &lt;a href=&#34;https://www.google.com/chrome/&#34;&gt;Google Chrome&lt;/a&gt; and &lt;a href=&#34;https://www.android.com/&#34;&gt;Android&lt;/a&gt; does).  Or how we might have to create everything from scratch without the world of open content made available under Creative Commons licenses and from public domain. All of this allows people not only to get inspired but to build upon.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Give examples of licenses applied for different uses, intentions&lt;/li&gt;
+&lt;li&gt;Evaluate CC license choice for various projects/content&lt;/li&gt;
+&lt;li&gt;Discuss which CC licenses are acceptable to a particular community&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;personal-reflection-why-it-matters-to-you&#34;&gt;Personal Reflection / Why It Matters to You&lt;/h2&gt;
+
+&lt;p&gt;Looking for success stories in different areas we tend to seek the most visible examples from mass media, often forgetting about how many examples of something much more valuable can much closer, in our communities.&lt;/p&gt;
+
+&lt;p&gt;Think about your work environment (or passion) how it is influenced by open content, open source and public domain. Can you find any examples of Creative Commons and public domain content around you or find some that would be useful for you? Who is making them and how do they speak about being open? Are they local or maybe there is some unconventional connections like resources from another country popular in yours? Take a moment to search for any examples.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;If you cannot think of any examples off hand, you may ask in your social media channels for less commonly known sources of open content. Consider adding your examples to the CC Certification Space (link) and what you can learn of the people/organizations who have shared them. Or explore what others have shared there&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;acquiring-essential-knowledge&#34;&gt;Acquiring Essential Knowledge&lt;/h2&gt;
+
+&lt;p&gt;You can discover successful Creative Commons license use among major organizations, institutions, and government agencies, with the numbers increasing all the time.&lt;/p&gt;
+
+&lt;p&gt;In the first few months of 2017  &lt;a href=&#34;http://www.metmuseum.org&#34;&gt;The Metropolitan Museum of Art&lt;/a&gt; (The Met) and the &lt;a href=&#34;http://www.esa.int/&#34;&gt;European Space Agency&lt;/a&gt; (ESA) started using open licenses to make access to their resources open and easy.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.metmuseum.org/press/news/2017/open-access&#34;&gt;The Met Makes Its Images of Public-Domain Artworks Freely Available through New Open Access Policy&lt;/a&gt; &amp;ldquo;Thomas P. Campbell, Director and CEO of The Metropolitan Museum of Art, announced today its adoption of a new policy: all images of public-domain artworks in the Museum&amp;rsquo;s collection are now available for free and unrestricted use. This updated policy, known as Open Access, utilizes the Creative Commons Zero (CC0) designation.&amp;rdquo; (7 February 2017)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.esa.int/For_Media/Press_Releases/ESA_affirms_Open_Access_policy_for_images_videos_and_data&#34;&gt;ESA Affirms Open Access Policy for Images, Videos and Data&lt;/a&gt; &amp;ldquo;ESA today announced it has adopted an Open Access policy for its content such as still images, videos and selected sets of data.&amp;rdquo; (20 February 2017)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But what is often unseen nor written about are the &lt;em&gt;intentions&lt;/em&gt; of individual people and small institutions to start using Creative Commons (nor do we hear much about the consequences). We tend to seek huge and breaking stories about re-use when often small but incremental changes happen because something become open, available to use and modify, not only by other huge actors but maybe by school kids or independent artists.&lt;/p&gt;
+
+&lt;h3 id=&#34;examples-by-creative-commons-license&#34;&gt;Examples By Creative Commons License&lt;/h3&gt;
+
+&lt;p&gt;Take a look at the Creative Commons overview of each license that includes examples of projects and people using those licenses:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/&#34;&gt;Examples of use organized by CC License&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://creativecommons.org/share-your-work/public-domain/cc0/&#34;&gt;Examples of works placed into the Public Domain using CC0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;more-examples&#34;&gt;More Examples&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/sociocultural/power-open.jpg&#34; alt=&#34;Cover image from The Power of Open&#34; title=&#34;Cover image from The Power of Open&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;http://thepowerofopen.org/&#34; title=&#34;The Power of Open&#34;&gt;Cover image from The Power of Open PDF&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://creativecommons.org&#34;&gt;Creative Commons&lt;/a&gt; is licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Published in 2011 by Creative Commons and available in nine languages (Chinese, English, French, German, Korean, Japanese, Spanish, Portuguese and Polish) &lt;a href=&#34;http://thepowerofopen.org/&#34;&gt;The Power of Open&lt;/a&gt; provides case studies of how Creative Commons is used around the world by not only artists, but also news providers, scientists, publishers, museums, and more. Reading the whole book might take a while but just looking at the examples may help you with identifying projects and people closer geographically and similar thematically to your personal context.&lt;/p&gt;
+
+&lt;p&gt;Under their Open Access Policy, &lt;a href=&#34;https://openknowledge.worldbank.org/&#34;&gt;The World Bank&lt;/a&gt; has chosen CC BY as thaeir prefered license, allowing adaptations and translations of reports just by attributing them.&lt;/p&gt;
+
+&lt;p&gt;For a deeper dive you can also review the &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_major_Creative_Commons_licensed_works&#34;&gt;Wikipedia article about major CC licensed works around the world&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://stateof.creativecommons.org/2015/img/content-bubbles.svg&#34; alt=&#34;State of the Commons by Media Type&#34; title=&#34;State of the Commons by Media Type&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;from &amp;ldquo;&lt;a href=&#34;https://stateof.creativecommons.org/2015/&#34;&gt;State of the Commons (2015)&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt; licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For a historical and big picture view of how use of Creative Commons licenses changes over time and what new actors come to play, visit the &lt;a href=&#34;https://stateof.creativecommons.org&#34;&gt;State of The Commons report&lt;/a&gt; from Creative Commons.&lt;/p&gt;
+
+&lt;h5 id=&#34;thought-break&#34;&gt;Thought Break&lt;/h5&gt;
+
+&lt;p&gt;&lt;em&gt;Are there examples here you find compelling? They might be worth sharing in the CC Certificates Community Space or adding to your Personal Toolkit&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;media-platform-examples&#34;&gt;Media Platform Examples&lt;/h3&gt;
+
+&lt;p&gt;Many platforms for hosting various types of user generated media integrate Creative Commons as an option for contributors. These platforms generally allow the user to choose to apply any of the six Creative Common licenses to their work.&lt;/p&gt;
+
+&lt;p&gt;Reviewing this may give you an idea of the breath of Creative Commons licensed content, and in some case, links to where they are used.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://pixabay.com&#34;&gt;Pixabay&lt;/a&gt; and &lt;a href=&#34;http://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt; publish high quality images form photographers who don’t require attribution (photos are put in to the public domain using CC0) &amp;ndash; but you can always buy them coffee.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://commons.wikimedia.org/&#34;&gt;Wikimedia Commons&lt;/a&gt; hosts tens of thousands images under mostly open licenses incliding CC BY and CC BY-SA as well as Public Domain.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xkcd.com/&#34;&gt;XKCD&lt;/a&gt;, one of the most prolific webcomics, uses CC BY-NC to enable reuse by its fans.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://craphound.com/littlebrother/download/&#34;&gt;Author Cory Doctorow publishes most of his novels&lt;/a&gt; under CC BY-NC-SA licenses that makes fan-fiction remixes possible.&lt;/li&gt;
+&lt;li&gt;One of the earliest adopters &lt;a href=&#34;http://www.flickr.com/creativecommons/&#34;&gt;flickr&lt;/a&gt; includes hundreds of millions of photographs and videos licensed under Creative Commons. Furthermore the &lt;a href=&#34;https://www.flickr.com/commons/&#34;&gt;flickr Commons&lt;/a&gt; includes a vast collection of images placed into the public domain from a large list of institutions.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/creativecommonsmusicfree&#34;&gt;SoundCloud&lt;/a&gt;, &lt;a href=&#34;https://bandcamp.com/&#34;&gt;Bandcamp&lt;/a&gt; and &lt;a href=&#34;https://www.jamendo.com/&#34;&gt;Jamendo&lt;/a&gt; offer platforms for independent musicians to publish and share original music under Creative Commons licenses. And &lt;a href=&#34;http://ccmixter.org/&#34;&gt;ccMixter&lt;/a&gt; is an ecosystem for musicians to share samples and create remixes all licensed under CC BY-NC.&lt;/li&gt;
+&lt;li&gt;While &lt;a href=&#34;YouTube&#34;&gt;https://youtube.com/&lt;/a&gt; provides options for sharing video content under CC-BY, &lt;a href=&#34;https://vimeo.com/creativecommons&#34;&gt;vimeo&lt;/a&gt; offers the full range of Creative Commons licensing options for its members who upload videos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Do you use any of these media sources already to find content you can use? How many are new to you? If they are useful, you might want to add them to your Personal Toolkit. Or after exploring these, you might share in your social media places an example of content you found that might be useful to your work or interests.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h2&gt;
+
+&lt;p&gt;Explore and complete at least one of the &lt;a href=&#34;https://certificates.creativecommons.org/quests/cats/license-examples/&#34;&gt;quests for this unit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;closing-the-loop&#34;&gt;Closing the Loop&lt;/h2&gt;
+
+&lt;p&gt;By the end of this unit you should have taken in the view from perhaps some giant and ordinary shoulders. Consider what ideas you have gotten from seeing what they have shared.&lt;/p&gt;
+
+&lt;p&gt;You might think about collecting the valuable organizations, or places that included examples relevant to your field of work, and saving them to your Personal Learning Toolkit.&lt;/p&gt;
+
+&lt;p&gt;Examples are often shared within the &lt;a href=&#34;https://creativecommons.slack.com/#general&#34;&gt;Creative Commons Slack community #general channel&lt;/a&gt; &amp;ndash; you can join this open community via &lt;a href=&#34;https://slack-signup.creativecommons.org/&#34;&gt;https://slack-signup.creativecommons.org/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Perhaps there are examples you might share with your colleagues, or your social network.  If you do share, please use the hashtag &lt;code&gt;#cccert&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Do not be surprised if the work you build upon someday is seen by someone else as shoulders worth standing upon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CC as an Organization in the Commons</title>
       <link>https://creativecommons.github.io/cc-cert-core-hugo/commons/creative-commons/</link>
       <pubDate>Mon, 17 Apr 2017 15:53:02 -0700</pubDate>
@@ -1006,6 +1324,121 @@ License details: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/
 &lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/copyright-decision-tree&#34;&gt;Copyright Decision Tree&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/fair-use-free-for-all&#34;&gt;Fair Use Free For All&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Remixing Differently Licensed Works</title>
+      <link>https://creativecommons.github.io/cc-cert-core-hugo/licenses/remixed/</link>
+      <pubDate>Mon, 17 Apr 2017 15:17:44 -0700</pubDate>
+      
+      <guid>https://creativecommons.github.io/cc-cert-core-hugo/licenses/remixed/</guid>
+      <description>
+
+&lt;p&gt;Understanding the differences between Creative Commons licenses is important, but how do you deal with situations where you create content from materials that have different licenses?&lt;/p&gt;
+
+&lt;h2 id=&#34;the-big-question&#34;&gt;The Big Question&lt;/h2&gt;
+
+&lt;p&gt;Open content and open educational resources do not have one, universal copyright conditions. If you saw or used any Creative Commons content (or under other free licenses) you probably noticed that many of their conditions rule out the others. So how do mix them to create something that will be open and won’t break the internet (and someone&amp;rsquo;s copyright)?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/licenses/chilies.jpg&#34; alt=&#34;Combination of chilies&#34; title=&#34;Combination of chilies&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://flickr.com/photos/cityfoodsters/16344463891&#34; title=&#34;Combination of chilies&#34;&gt;Combination of chilies&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://flickr.com/people/cityfoodsters&#34;&gt;City Foodsters&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Exclusive conditions allow people to choose perfect licenses, adjusted to their needs but it also influence a lot, how this work will be used.&lt;/p&gt;
+
+&lt;p&gt;Creative Commons licenses are designed for ease of use. Users can see in a transparent manner how your work is available for reuse. Things can become complicated however if you want to combine two Creative Commons licensed works, for example when making a collage or remixes of music. &lt;em&gt;Not all licenses are in fact to compatible.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Knowing how to mix different licenses is crucial for making new content safe, useful and successful.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-outcomes&#34;&gt;Learning Outcomes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Compare compatibility between licenses&lt;/li&gt;
+&lt;li&gt;Determine license compatibility/interoperability&lt;/li&gt;
+&lt;li&gt;Avoid license incompatibility&lt;/li&gt;
+&lt;li&gt;Understand Creative Commons remix chart&lt;/li&gt;
+&lt;li&gt;Understand license stacking&lt;/li&gt;
+&lt;li&gt;Understand Non-Creative Commons license compatibility&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;personal-reflection-why-it-matters-to-you&#34;&gt;Personal Reflection / Why It Matters to You&lt;/h2&gt;
+
+&lt;p&gt;How do you search for Creative Commons licensed content? Do you start with selecting the license or you look for the content first and then narrow it down according to license? How often do you see materials you would like to combine that are under different licenses? Do you even bother to check the license during your research?&lt;/p&gt;
+
+&lt;p&gt;Try to remember your strategies, questions or problems you have encountered when using different content under Creative Commons licenses.&lt;/p&gt;
+
+&lt;h2 id=&#34;acquiring-essential-knowledge&#34;&gt;Acquiring Essential Knowledge&lt;/h2&gt;
+
+&lt;p&gt;Watch this video (starting 4:24):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/Hkz4q2yuQU8?t=4m24s&#34;&gt;https://youtu.be/Hkz4q2yuQU8?t=4m24s&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://youtu.be/Hkz4q2yuQU8&#34;&gt;Creating OER and Combining Licenses - Full&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://www.youtube.com/channel/UCA3MOOzRYoFFW2HbOqODxTQ&#34;&gt;The Orange Grove Repository&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/legalcode&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Get to know the &lt;a href=&#34;https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility&#34;&gt;chart with licenses compatibility&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/licenses/license-compatibility-chart.jpg&#34; alt=&#34;License Compatibility Chart&#34; title=&#34;License Compatibility Chart&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility&#34;&gt;License Compatibility Chart&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Choose two works you wish to combine or remix. Find the license of the first work on the first row and the license on the first column. You can combine the works if there is a check mark in the cell where the row and column intersect. Use at least the most restrictive licensing of the two (use the license most to right or down state) for the new work.&lt;/p&gt;
+
+&lt;p&gt;If there a cross at the intersection of the row and column then you can not just these works. This probably indicates that one of the two licenses may not used for commercial purposes, or one of the licenses does not allow for derivative works to be created&lt;/p&gt;
+
+&lt;h3 id=&#34;remix-works-with-a-non-commercial-building-block&#34;&gt;Remix works with a Non-Commercial building block&lt;/h3&gt;
+
+&lt;p&gt;It is not possible to mix works where the first work is placed under a Creative Commons Attribution-Share Alike license and the second work is licensed under a Attribution-NonCommercial-ShareAlike license. The ShareAlike building block in first license requires that the newly created work is released under that license and can therefore be used commercially, the second license wants you to release the new work under a license that does not permit commercial use.&lt;/p&gt;
+
+&lt;h3 id=&#34;remix-work-with-a-no-derivative-building-block&#34;&gt;Remix work with a No-Derivative building block&lt;/h3&gt;
+
+&lt;p&gt;It is not possible to use in a remix where No-Derivative is a building block in processing a work. All works have been released under this License may only be distributed. Into their original form There may of these works so no cropping or lower resolution works be made available. May also (parts of) these works are not used for other works.&lt;/p&gt;
+
+&lt;p&gt;You can see from the graph below how specific conditions affect not only one resource potential but at scale how they can grow the free culture.&lt;/p&gt;
+
+&lt;p&gt;If you want to learn more about license compatibility in educational context see the WikiEducator OER handbook For Educators chapter on &lt;a href=&#34;http://wikieducator.org/OER_Handbook/educator_version_one/License/License_compatibility&#34;&gt;License Compatibility&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in how Creative Commons license compatibility works with Wikipedia and open source licenses check out the &lt;a href=&#34;https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses&#34;&gt;Wikipedia article on all Free and Open Source licenses&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, try the &lt;a href=&#34;http://indstudy1.org/univ/355460515034/Flash/Lesson2/PracticeVersion.html&#34;&gt;OER Remix Game&lt;/a&gt; where you have to remix four differently licensed  text, images, music, and video to create a new copyright compliant resource (requires Flash).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://creativecommons.github.io/cc-cert-core/images/licenses/oer-remix-game.jpg&#34; alt=&#34;OER Remix Game screenshot&#34; title=&#34;OER Remix Game screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;&lt;a href=&#34;http://indstudy1.org/univ/355460515034/Flash/Lesson2/PracticeVersion.html&#34;&gt;OER Remix Game&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://is.byu.edu/&#34;&gt;BYU Independent Study&lt;/a&gt; is licensed under &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/us/&#34;&gt;CC BNC-SA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;application-of-learning&#34;&gt;Application of Learning&lt;/h2&gt;
+
+&lt;p&gt;CC Certificates aim to support participants in direct application of learning for personal and / or professional use. This requires authoring learning activities that engage learners in using and applying the basic knowledge they acquire from content we provide.&lt;/p&gt;
+
+&lt;p&gt;For each learning unit three learning activities need to be authored. 1. Creation of a personal learner toolkit. 2 Active participation in CC’s community, and 3. Applied practice. Here are guidelines for each:&lt;/p&gt;
+
+&lt;h3 id=&#34;learner-toolkit&#34;&gt;Learner Toolkit&lt;/h3&gt;
+
+&lt;p&gt;Select at least 2 or 3 resources directly relevant to your personal or work related CC needs from the Acquiring Basic Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes it easy to find and use them when the need arises and makes it easy for you to pass on resources you consider important to others. Add comments explaining relevancy and importance.&lt;/p&gt;
+
+&lt;h3 id=&#34;community-collaboration-appreciation-recognition-gratitude&#34;&gt;Community - Collaboration, Appreciation, Recognition, Gratitude&lt;/h3&gt;
+
+&lt;p&gt;In the CC Certificate social forum post your answers to the personal reflection questions posed at the start of this learning unit. Identify and comment on posts from at least two others who have similar needs or ideas.&lt;/p&gt;
+
+&lt;p&gt;Sign up for at least two means of connecting with Creative Commons such as following on Twitter, joining mailing lists of interest, subscribing to the Creative Commons newsletter, and joining the Creative Commons Slack channel.&lt;/p&gt;
+
+&lt;p&gt;From the Creative Commons news blog, Facebook page, Twitter stream and web pages identify at least two other people or organizations who are using Creative Commons in a similar way you or your organization do or want to do. Note these people or organizations in your Toolkit along with questions you might have for them in concerning advice or lessons learne&lt;/p&gt;
+
+&lt;h3 id=&#34;applied-practice&#34;&gt;Applied Practice&lt;/h3&gt;
+
+&lt;p&gt;Complete the following activity in the Quest Bank:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://quests.creativecommons.org/assignments/wikipedia-nc-and-citation&#34;&gt;Wikipedia, NC and Citation Test&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;closing-the-loop&#34;&gt;Closing the Loop&lt;/h2&gt;
+
+&lt;p&gt;Generally, a modification rises to the level of an adaptation under copyright law when the modified work is based on the prior work but manifests sufficient new creativity to be copyrightable, such as a translation of a novel from one language to another, or the creation of a screenplay based on a novel. If your use is not one that requires permission under the license, you may conduct text and data mining activity without regard to the above considerations. the minute you put pen to paper, take a photo, or hit the &amp;lsquo;save&amp;rsquo; button on your computer).&lt;/p&gt;
+
+&lt;p&gt;The first question to ask is whether doing so constitutes an adaptation. CC has a brief guide to interpretation of the NC license that goes into more detail about the meaning of the NC license and some key points to pay attention to.&lt;/p&gt;
+
+&lt;p&gt;Because there is no single &amp;lsquo;Creative Commons license,&amp;rsquo; it is important to identify which of the six licenses you are applying to your material, which of the six licenses has been applied to material that you intend to use, and in both cases the specific version. Embedding machine-readable metadata in the code of the license indicator or code of the licensed page.&lt;/p&gt;
 </description>
     </item>
     
